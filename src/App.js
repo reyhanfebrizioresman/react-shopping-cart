@@ -1,4 +1,4 @@
-// feature-satu
+// feature-SATU
 import React from "react"
 function App() {
   return (
